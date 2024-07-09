@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shade
-Currently learning Java and Lua
-Aspiring Minecraft mod developer
+- Currently learning Java and Lua
+- Aspiring Minecraft mod developer
 
 <!---
 ShadeVH/ShadeVH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
